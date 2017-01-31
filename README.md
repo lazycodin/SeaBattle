@@ -1,0 +1,2 @@
+# SeaBattle
+Network game SeaBattle
